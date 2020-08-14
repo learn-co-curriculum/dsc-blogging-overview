@@ -69,11 +69,11 @@ If you already have a professional blog that you'd like to use for your data sci
 
 There are multiple blogging platforms to choose from that make it easy to start a blog, here are some of our favorites:
 
-* [Blogger][https://www.blogger.com/]
-* [dev.to][https://dev.to/]
-* [Medium][https://medium.com/]
-* [Wordpress][https://wordpress.com/]
+* [Blogger](https://www.blogger.com/)
+* [dev.to](https://dev.to/)
+* [Medium](https://medium.com/)
+* [Wordpress](https://wordpress.com/)
 
-Different platforms have different pros and cons, so do a little research to decide what is best for you. For example, we have had students with [Medium][https://medium.com/] blogs get their posts promoted on [Towards Data Science][], which boosted their visibility. However, [Medium][https://medium.com/] requires an account to read articles and limits the number of premium articles that can be read for free, so fewer people may stumble across your post.
+Different platforms have different pros and cons, so do a little research to decide what is best for you. For example, we have had students with [Medium](https://medium.com/) blogs get their posts promoted on [Towards Data Science](https://towardsdatascience.com/), which boosted their visibility. However, [Medium](https://medium.com/) requires an account to read articles and limits the number of premium articles that can be read for free, so fewer people may stumble across your post.
 
 ✨Have fun and happy blogging!✨
