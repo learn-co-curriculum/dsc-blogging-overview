@@ -39,8 +39,6 @@ Here are some blog topic ideas:
 
 We recommend you take a look at our [blog templates and examples](https://drive.google.com/drive/folders/1UBiRCRLzVP5CHU3PJNwoMZAe3ajUBm2a) to get an idea for what makes a blog post good.
 
-* Aim for reasonable quantity and great quality. You must complete all the required blog posts, but we recommend you make sure to have a few very polished ones to showcase to employers.
-
 * Strike a balance between providing a meaningful investigation of your topic and being concise. Constrain the scope so it will be interesting and digestible in about 1000-3000 words (this is not a firm limit).
 
 * Use clear and consistent formatting to make your content accessible and professional-looking.
