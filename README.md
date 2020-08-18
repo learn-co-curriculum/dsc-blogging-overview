@@ -4,10 +4,10 @@ This lesson covers...
 
 * Why blogging is valuable
 * Topics to blog about
-* Length and style suggestions
+* What makes for a good blog post
 * How to start your blog
 
-## Why Blog?
+## Why Should I Blog?
 
 Blogging has many benefits:
 
@@ -19,7 +19,7 @@ Blogging has many benefits:
 
 * **Helping your peers and the broader community.** Have you ever Googled a question you had and found the answer on a blog? You can pay it forward: be the person that writes a new blog post that helps someone else!
 
-## What to Blog About?
+## What Should I Blog About?
 
 Here are some blog topic ideas:
 
@@ -35,7 +35,9 @@ Here are some blog topic ideas:
 
 * Find an interesting data science paper and summarize why it is important.
 
-## Length and Style Suggestions
+## What Does A Good Blog Post Look Like?
+
+We recommend you take a look at our [blog templates and examples](https://drive.google.com/drive/folders/1UBiRCRLzVP5CHU3PJNwoMZAe3ajUBm2a) to get an idea for what makes a blog post good.
 
 * Aim for reasonable quantity and great quality. You must complete all the required blog posts, but we recommend you make sure to have a few very polished ones to showcase to employers.
 
@@ -48,7 +50,7 @@ Here are some blog topic ideas:
 
 * Cite and link to resources you used to write your post.
 
-## How to Start Your Blog
+## How Do I Start My Blog?
 
 If you already have a professional blog that you'd like to use for your data science content, you can add your posts to that. Otherwise, you will need to start a new blog. If you have a personal blog, you should avoid using it for this purpose so that you can continue using it for personal content without worrying about how it might be perceived by potential employers.
 
