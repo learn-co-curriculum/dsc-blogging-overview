@@ -56,6 +56,7 @@ There are multiple blogging platforms to choose from that make it easy to start 
 
 * [Blogger](https://www.blogger.com/)
 * [dev.to](https://dev.to/)
+* [GitHub Pages](https://pages.github.com/)
 * [Medium](https://medium.com/)
 * [Wordpress](https://wordpress.com/)
 
