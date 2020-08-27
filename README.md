@@ -11,13 +11,13 @@ This lesson covers...
 
 Blogging has many benefits:
 
-* **Developing your written communication skills.** Your writing ability will be critical to your success when completing job applications and presenting your work to colleagues. Blogging is great practice for identifying and clearly communicating the most important points of any subject.
+* **Develop your written communication skills.** Your writing ability will be critical to your success when completing job applications and presenting your work to colleagues. Blogging is great practice for identifying and clearly communicating the most important points of any subject.
 
-* **Demonstrating your talent to employers.** Potential employers will review your blog to determine whether to offer you an interview or a job. Some students have even been invited to interview or exempted from technical interviews based on their blogs.
+* **Demonstrate your talent to employers.** Potential employers will review your blog to determine whether to offer you an interview or a job. Some students have even been invited to interview or exempted from technical interviews based on their blogs.
 
-* **Strengthening your knowledge.** Blogging helps you explore new topics, deepen your understanding, and crystallize what you've learned.
+* **Strengthen your knowledge.** Blogging helps you explore new topics, deepen your understanding, and crystallize what you've learned.
 
-* **Helping your peers and the broader community.** Have you ever Googled a question you had and found the answer on a blog? You can pay it forward: be the person that writes a new blog post that helps someone else!
+* **Help your peers and the broader community.** Have you ever Googled a question you had and found the answer on a blog? Writing blog posts helps others who are following in your footsteps!
 
 ## What Should I Blog About?
 
