@@ -1,5 +1,11 @@
 # Blogging Overview
 
+## Introduction
+
+In this lesson, we discuss how to write good blog posts.
+
+## Objectives
+
 This lesson covers...
 
 * Why blogging is valuable
