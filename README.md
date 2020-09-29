@@ -37,7 +37,7 @@ Here are some blog topic ideas:
 
 ## What Does A Good Blog Post Look Like?
 
-We recommend you take a look at our [blog templates](https://drive.google.com/drive/folders/1UBiRCRLzVP5CHU3PJNwoMZAe3ajUBm2a/edit?usp=sharing) and [examples](https://docs.google.com/document/d/1eqL8Dsj7dH7s_MRnf_4-3kCiSz72POHTfb-sBRN5Zhs/edit?usp=sharing) to get an idea for what makes a blog post good.
+We recommend you take a look at our [blog templates](https://drive.google.com/drive/folders/1UBiRCRLzVP5CHU3PJNwoMZAe3ajUBm2a?usp=sharing) and [examples](https://docs.google.com/document/d/1eqL8Dsj7dH7s_MRnf_4-3kCiSz72POHTfb-sBRN5Zhs/edit?usp=sharing) to get an idea for what makes a blog post good.
 
 * Strike a balance between providing a meaningful investigation of your topic and being concise. Constrain the scope so it will be interesting and digestible in about 1000-3000 words (this is not a firm limit).
 
