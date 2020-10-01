@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this lesson, we discuss how to write good blog posts.
+In this lesson, we discuss how to write good blog posts that meet Flatiron School's requirements.
 
 ## Objectives
 
@@ -12,6 +12,7 @@ This lesson covers...
 * Topics to blog about
 * What makes for a good blog post
 * How to start your blog
+* Flatiron School blog requirements 
 
 ## Why Should I Blog?
 
@@ -70,6 +71,22 @@ Different platforms have different pros and cons, so do a little research to dec
 
 ## Blog Requirements
 
-All students are required to blog during their programs - please see the "Blog Requirements & Submission" page in the "Milestones Instructions" topic for more information.
+To succeed in your career transition and graduate from Flatiron School, you must complete the following activities. These requirements are designed to give you the best opportunity to deepen your knowledge, practice communication skills, and showcase yourself to potential employers.
+
+* Set up a publicly accessible blog 
+
+* Publish at least four blog posts on it, including **one per Phase for Phases 1-4**
+
+* Submit URLs to your posts **by the end of each Phase** in the Blog Post assignments
+  * These assignments are located in the Milestones topics of the Phase 1-4 Canvas courses
+  
+* Write blog posts that...
+  * Discuss data science topics
+  * Are composed primarily of original material you wrote
+  * Include proper attribution
+  * Have high-quality content and formatting
+  * Are something you would proudly show to a potential employer
+
+After you submit your blog posts, your teacher will grade them as Complete or Incomplete. Your blogs must all be submitted on time and receive Complete grades in order to continue through your course.
 
 ✨Have fun and happy blogging!✨
