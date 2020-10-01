@@ -87,6 +87,6 @@ To succeed in your career transition and graduate from Flatiron School, you must
   * Have high-quality content and formatting
   * Are something you would proudly show to a potential employer
 
-After you submit your blog posts, your teacher will grade them as Complete or Incomplete. Your blogs must all be submitted on time and receive Complete grades in order to continue through your course.
+After you submit your blog posts, your teacher will grade them as Complete or Incomplete. Your blogs must all be submitted on time and receive Complete grades in order to continue through your program.
 
 ✨Have fun and happy blogging!✨
