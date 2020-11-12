@@ -40,7 +40,7 @@ Here are some blog topic ideas:
 
 * Write a tutorial to help aspiring data scientists to implement a tool or method.
 
-* Find an interesting data science paper and summarize why it is important.
+* Find an interesting data science paper and summarize why it is important. This can be a new paper from the past few months, or you can refer to [this spreadsheet](https://docs.google.com/spreadsheets/d/1UYmAT13AAknrOatzLeeAsN4tS7ENjn2fpJNGzOZ67rQ/edit?usp=sharing).
 
 ## What Does A Good Blog Post Look Like?
 
